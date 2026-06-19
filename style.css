@@ -103,3 +103,6 @@ body {
     transform: translateY(-1px);
 }
 
+.task-border {
+    border-left: 3px solid #f66436;
+}
